@@ -3,15 +3,15 @@
 -  💻 Programador Front-End
 -  📚 Estudante da Kenzie Academy Brasil
 -  📚 Cursando Análize e Desenvolvimento de Sistemas na Faculdade Descomplica
--  🌱 Aprendendo React e Styled Components
+-  🌱 Aprendendo React e Typescript
 
 Obj: A maioria dos repositorios estão fechados, pois são vinculados a kenzie.
 
 
 <div align="center">
   <a href="https://github.com/Silvio-SC/Silvio-SC">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=silvio-sc&show_icons=true&locale=pt-br&theme=gotham" alt="silvio-sc" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio-SC&layout=compact&langs_count=7&theme=gotham"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Silvio-SC&show_icons=true&count_private=true&theme=dracula"/> -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio-SC&layout=donut&langs_count=5&theme=dracula"/>
 </div>
 
 ##
