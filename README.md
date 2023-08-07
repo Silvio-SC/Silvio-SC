@@ -27,7 +27,6 @@ Obj: A maioria dos repositorios estão fechados, pois são vinculados a kenzie.
   <img align="center" alt="styled components" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
 <!--   <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="express" height="40" width="40" src="https://aalbacetef.io/public/assets/skills/express.svg" />  
 <!--   <img align="center" alt="express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />   -->
 <!--   <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
 
