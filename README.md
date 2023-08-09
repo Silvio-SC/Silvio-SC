@@ -14,7 +14,7 @@ Obj: A maioria dos repositorios estão fechados, pois são vinculados a kenzie.
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvio-sc&show_icons=true&locale=en" alt="silvio-sc" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc&" alt="silvio-sc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc" alt="silvio-sc" /></p>
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left" background-color="#0074D9"> 
