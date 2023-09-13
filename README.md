@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, Sou Silvio Ferreira (SC)</h1>
 <h3 align="center">Desenvolvedor Frontend, Almejando o fullstack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvio-sc&label=Profile%20views&color=0e75b6&style=flat" alt="silvio-sc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=silvio-sc&label=Profile%20views&color=0e75b6&style=flat" alt="silvio-sc" /> </p>
 
 -  📚 Estudante da Kenzie Academy Brasil
 -  📚 Cursando Análize e Desenvolvimento de Sistemas na Faculdade Descomplica
@@ -10,11 +10,11 @@
 
 Obj: A maioria dos repositorios estão fechados, pois são vinculados a kenzie.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=donut&theme=calm" alt="silvio-sc" height="180" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=donut&theme=calm" alt="silvio-sc" height="240" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvio-sc&show_icons=true&locale=en" alt="silvio-sc" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc&theme=calm" alt="silvio-sc" height="180" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc&theme=calm" alt="silvio-sc" height="240" /></p>
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left" background-color="#0074D9"> 
