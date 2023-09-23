@@ -10,7 +10,7 @@
 
 Obj: A maioria dos repositorios estão fechados, pois são vinculados a kenzie.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=donut&theme=calm" alt="silvio-sc" height="200" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=compact&theme=calm" alt="silvio-sc" height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc&theme=calm" alt="silvio-sc" height="200" /></p>
 
