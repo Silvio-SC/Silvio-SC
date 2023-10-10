@@ -1,6 +1,5 @@
 # Olá, Sou o Silvio Ferreira (SC)!
-<h1 align="center">Olá 👋, Sou Silvio Ferreira (SC)</h1>
-<h3 align="center">Desenvolvedor Frontend, Almejando o fullstack</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 
 -  📚 Estudante da Kenzie Academy Brasil 
 -  📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
@@ -38,7 +37,7 @@
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  -->
 
 ## GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=compact&theme=calm" alt="silvio-sc" height="200" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvio-sc&show_icons=true&locale=en&layout=compact&theme=calm&&langs_count=8" alt="silvio-sc" height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvio-sc&theme=calm" alt="silvio-sc" height="200" /></p>
 
