@@ -1,9 +1,9 @@
 # Olá, Sou o Silvio Ferreira (SC)!
 <h3 align="center">Desenvolvedor Web</h3>
 
--  📚 Estudante da Kenzie Academy Brasil 
+-  📚 Formado na Kenzie Academy Brasil 
 -  📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
--  🌱 Aprendendo Backend em Python e Django 
+-  🌱 Aprendendo Backend em Java e Spring
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=silvio-sc&label=Profile%20views&color=0e75b6&style=flat" alt="silvio-sc" /> </p>
 
